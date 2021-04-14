@@ -1,0 +1,15 @@
+CreateTicket.c(72): Price Business Ticket 1 = 293
+CreateTicket.c(73): Price Business Ticket 2 = 261
+CreateTicket.c(74): Price Business Ticket 3 = 277
+CreateTicket.c(75): Price Business Ticket 4 = 240
+CreateTicket.c(77): Business Flight Details 1 = 060;293;04/14/2021
+CreateTicket.c(78): Business Flight Details 2= 061;261;04/14/2021
+CreateTicket.c(79): Business Flight Details 3= 062;277;04/14/2021
+CreateTicket.c(80): Business Flight Details 4= 063;240;04/14/2021
+MakeBusinessTicket.c(6): Random choose business class ticket = 4
+MakeBusinessTicket.c(7): Random choose business class ticket = 063;240;04/14/2021
+vuser_end.c(37):           
+vuser_end.c(38): ***Result***
+vuser_end.c(39): Ticket Price= 491
+vuser_end.c(40): Ticket Class= First
+vuser_end.c(41): Flight Details= 11pm : Flight 513 leaves Portland  for Frankfurt

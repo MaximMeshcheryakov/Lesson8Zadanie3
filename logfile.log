@@ -1,0 +1,8 @@
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: CreateTicket.c:23: warning: expression with no effect elided
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: CreateTicket.c:63: warning: expression with no effect elided
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: ActionFirst.c:26: warning: unrecognized character escape sequence `\/'
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: ActionBusiness.c:26: warning: unrecognized character escape sequence `\/'
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: Action2.c:17: warning: expression with no effect elided
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: Action2.c:41: warning: expression with no effect elided
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: vuser_end.c:7: warning: unrecognized character escape sequence `\$'
+c:\users\rejaketi\documents\vugen\scripts\mlesson8_3\\pre_cci.c: vuser_end.c:15: warning: unrecognized character escape sequence `\.'
